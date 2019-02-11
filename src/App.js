@@ -11,6 +11,7 @@ class App extends Component {
           <p>
             cool app, docker..new docker
             <div>no more node_modules</div>
+            <div>this is from dev/feature branch</div>
             {/* Edit <code>src/App.js</code> and save to reload. */}
           </p>
           <a
